@@ -111,7 +111,7 @@ $ git checkout -- file
 ### 添加远程库
 
 ```
-$ git add remote origin git@github.com:guohaorui/git_learning.git
+$ git remote add origin git@github.com:guohaorui/git_learning.git
 ```
 
 origin 相当于远程库在git中的名字
